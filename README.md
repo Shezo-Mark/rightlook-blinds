@@ -1,0 +1,2 @@
+# rightlook-blinds
+for client
